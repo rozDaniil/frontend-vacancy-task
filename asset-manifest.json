@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-vacancy-task/static/css/main.4d01cb12.css",
+    "main.js": "/frontend-vacancy-task/static/js/main.59b9f295.js",
+    "index.html": "/frontend-vacancy-task/index.html",
+    "main.4d01cb12.css.map": "/frontend-vacancy-task/static/css/main.4d01cb12.css.map",
+    "main.59b9f295.js.map": "/frontend-vacancy-task/static/js/main.59b9f295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d01cb12.css",
+    "static/js/main.59b9f295.js"
+  ]
+}
